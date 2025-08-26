@@ -90,8 +90,6 @@ python -m unittest tests/test_movie_search.py -v
 
 All tests pass successfully.
 
-\<details\>
-\<summary\>Click to view full test output\</summary\>
 
 ```
 ============================= test session starts =============================
@@ -107,7 +105,3 @@ tests/test_movie_search.py::TestMovieSearch::test_search_movies_top_n PASSED [10
 ============================== 4 passed in ...s ===============================
 ```
 
-\</details\>
-
-```
-```
